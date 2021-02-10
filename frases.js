@@ -94,7 +94,7 @@ const frases = [
         " escalonando por Gauss-Jordan",
         " provoca a comunicação de átomos",
         " aumenta a energia potencial",
-        " gerada pelo avanço",
+        " gera um avanço",
     ],
     [
         " das novas proposições.",
