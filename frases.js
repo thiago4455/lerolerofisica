@@ -60,7 +60,7 @@ const frases = [
         ", particialmente, da relatividade geral.",
         "dos transitos de informação por fótons.",
         "dos campos quânticos.",
-        "da Teoria Cinética dos Gases."
+        "da Teoria Cinética dos Gases.",
         "do gás em análise."
     ]
   ];
