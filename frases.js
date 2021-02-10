@@ -40,7 +40,8 @@ const frases = [
         "uma integral ",
         "o spin do elétron diferencial ",
         "um vetor de estado ",
-        "a constante sensação de vazio "
+        "a constante sensação de vazio ",
+        "a impossibilidade da continuidade somente pela física teórica ",
     ],
     [
         "nos obriga à análise ",
