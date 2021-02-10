@@ -11,13 +11,14 @@ const frases = [
         "Utilizamos o método ciêntifico para demonstrar que ",
         "Como ja foi previsto na teoria da relatividade, ",
         "Como antes foi dito por Einstein, ",
-        "A distribuição de Gauss prevê que ",
+        "A dristuibuição de Gauss preve que",
         "Dado os conhecimentos adquiridos durante a história ",
         "Newton uma vez afirmou que ",
         "A integral de uma função em um intervalos definidos infere que ",
         "Segundo o modelo padrão, ",
         "Jupiter está se deteriorando, isso levou ao fato de que ",
         "O objetivo desse experimento é calcular como "
+        
     ],
     [
         "a crescente busca pela teoria unificada ",
@@ -29,7 +30,8 @@ const frases = [
         "a energia mecânica conservada ", 
         "o teletransporte de matéria ",
         "o valor da constante gama ",
-        "a amplitude do movimento "
+        "a amplitude do movimento ",
+        "a influencia dos físicos teóricos contemporâneos "
     ],
     [
         "nos obriga à análise ",
@@ -61,6 +63,8 @@ const frases = [
         "dos transitos de informação por fótons.",
         "dos campos quânticos.",
         "da Teoria Cinética dos Gases.",
-        "do gás em análise."
+        "do gás em análise.",
+        "da Teoria das Cordas."
+        "Graças as descobertas de Isaac Newton no século XV"
     ]
   ];
