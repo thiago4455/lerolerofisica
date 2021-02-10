@@ -64,7 +64,7 @@ const frases = [
         "dos campos quânticos.",
         "da Teoria Cinética dos Gases.",
         "do gás em análise.",
-        "da Teoria das Cordas."
+        "da Teoria das Cordas.",
         "graças as descobertas de Isaac Newton no século XV"
     ]
   ];
