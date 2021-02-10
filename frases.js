@@ -18,7 +18,7 @@ const frases = [
         "a derivada da função ",
         "o experimento realizado ",
         "a cada vez maior busca por respostas ",
-        "a necessidade acadêmica de respostas sobre um determinado tópico "
+        "a necessidade de respostas sobre um determinado tópico "
     ],
     [
         "nos obriga à análise ",
