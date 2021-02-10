@@ -11,7 +11,7 @@ const frases = [
         "Utilizamos o método ciêntifico para demonstrar que ",
         "Como ja foi previsto na teoria da relatividade, ",
         "Como antes foi dito por Einstein, ",
-        "A distribuição de Gauss prevê que",
+        "A distribuição de Gauss prevê que ",
         "Dado os conhecimentos adquiridos durante a história ",
         "Newton uma vez afirmou que ",
         "A integral de uma função em um intervalos definidos infere que ",
