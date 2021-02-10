@@ -34,6 +34,7 @@ const frases = [
         "a amplitude do movimento ",
         "a influencia dos físicos teóricos contemporâneos ",
         "a constante sensação de vazio "
+        "a impossibilidade da continuidade somente pela física teórica"
         
     ],
     [
