@@ -32,7 +32,9 @@ const frases = [
         "o teletransporte de matéria ",
         "o valor da constante gama ",
         "a amplitude do movimento ",
-        "a influencia dos físicos teóricos contemporâneos "
+        "a influencia dos físicos teóricos contemporâneos ",
+        "a contante sensação de vazio "
+        
     ],
     [
         "nos obriga à análise ",
@@ -47,7 +49,11 @@ const frases = [
         "spin do elétron diferencial ", 
         "leva a uma caneca equivaler a uma rosquinha ", 
         "exige uma fortificação dos alicerces que servem de ferramenta ",
-        "tendo como consequência uma estrela de nêutrons "
+        "tendo como consequência uma estrela de nêutrons ",
+        "nos leva a questionar a procedência ",
+        "é mais recorrente que pensávamos, e portanto leva ao questionamento ",
+        "é a figura chave da revolução científica ",
+        "é conflitante com a ideia "
     ],
     [
         "das novas proposições.",
@@ -66,6 +72,7 @@ const frases = [
         "da Teoria Cinética dos Gases.",
         "do gás em análise.",
         "da Teoria das Cordas.",
-        "graças as descobertas de Isaac Newton no século XV"
+        "graças às descobertas de Isaac Newton no século XV.",
+        "como previsto pelo astronomo Johannes Kepler."
     ]
   ];
