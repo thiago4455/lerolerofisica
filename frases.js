@@ -10,7 +10,7 @@ const frases = [
         "Obviamente ",
         "Utilizamos o método ciêntifico para demonstrar que ",
         "Como ja foi previsto na teoria da relatividade, ",
-        "Como antes foi dito por Einstein, "
+        "Como antes foi dito por Einstein, ",
         "A dristuibuição de Gauss preve que",
         "Dado os conhecimentos adquiridos durante a história ",
         "Newton uma vez afirmou que ",
@@ -24,7 +24,7 @@ const frases = [
         "a derivada da função ",
         "o experimento realizado ",
         "a cada vez maior busca por respostas ",
-        "a necessidade de respostas sobre um determinado tópico "
+        "a necessidade de respostas sobre um determinado tópico ",
         "a energia mecânica conservada ", 
         "o teletransporte de matéria "
     ],
@@ -36,7 +36,7 @@ const frases = [
         "não pode mais se dissociar ",
         "estimula a diferenciação ",
         "aponta para a convergência ",
-        "afeta positivamente a correta previsão "
+        "afeta positivamente a correta previsão ",
         "implica em fusão de átomos ",
         "spin do elétron diferencial ", 
         "leva a uma caneca é igual a uma rosquinha ", 
@@ -51,7 +51,7 @@ const frases = [
         "da geometria euclidiana.",
         "do tempo de decaimento dos átomos.",
         "das partículas subatômicas.",
-        "da posição do elétron."
+        "da posição do elétron.",
         "do modelo estabelecido.",
         "das provas por indução.",
         ", particialmente, da relatividade geral.",
