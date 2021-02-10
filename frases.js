@@ -73,7 +73,7 @@ const frases = [
         "da posição do elétron.",
         "do modelo estabelecido.",
         "das provas por indução.",
-        ", particialmente, da relatividade geral.",
+        ", parcialmente, da relatividade geral.",
         "dos transitos de informação por fótons.",
         "dos campos quânticos.",
         "da Teoria Cinética dos Gases.",
@@ -85,6 +85,7 @@ const frases = [
         "de um caminho fechado.",
         "de um elipsóide.",
         "graças às descobertas de Isaac Newton no século XV.",
-        "como previsto pelo astronomo Johannes Kepler."
+        "como previsto pelo astronomo Johannes Kepler.",
+        "do raio de Schwarzschild."
     ]
   ];
