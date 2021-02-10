@@ -33,7 +33,7 @@ const frases = [
         "o valor da constante gama ",
         "a amplitude do movimento ",
         "a influencia dos físicos teóricos contemporâneos ",
-        "a contante sensação de vazio "
+        "a constante sensação de vazio "
         
     ],
     [
