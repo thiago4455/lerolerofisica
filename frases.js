@@ -18,6 +18,7 @@ const frases = [
         "Segundo o modelo padrão, ",
         "Jupiter está se deteriorando, isso levou ao fato de que ",
         "O objetivo desse experimento é calcular como "
+        
     ],
     [
         "a crescente busca pela teoria unificada ",
@@ -29,7 +30,8 @@ const frases = [
         "a energia mecânica conservada ", 
         "o teletransporte de matéria ",
         "o valor da constante gama ",
-        "a amplitude do movimento "
+        "a amplitude do movimento ",
+        "a influencia dos físicos teóricos contemporâneos "
     ],
     [
         "nos obriga à análise ",
@@ -61,6 +63,8 @@ const frases = [
         "dos transitos de informação por fótons.",
         "dos campos quânticos.",
         "da Teoria Cinética dos Gases.",
-        "do gás em análise."
+        "do gás em análise.",
+        "da Teoria das Cordas."
+        "graças as descobertas de Isaac Newton no século XV"
     ]
   ];
