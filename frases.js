@@ -14,7 +14,7 @@ const frases = [
         "A distribuição de Gauss prevê que ",
         "Dado os conhecimentos adquiridos durante a história, ",
         "Newton uma vez afirmou que ",
-        "A integral de uma função em um intervalos definidos infere que ",
+        "A integral de uma função em intervalos definidos infere que ",
         "Segundo o modelo padrão, ",
         "Jupiter está se deteriorando, isso levou ao fato de que ",
         "O objetivo desse experimento é calcular como ",
