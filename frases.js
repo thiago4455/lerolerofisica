@@ -14,7 +14,7 @@ const frases = [
         "A distribuição de Gauss prevê que ",
         "Dado os conhecimentos adquiridos durante a história, ",
         "Newton uma vez afirmou que ",
-        "A integral de uma função em um intervalos definidos infere que ",
+        "A integral de uma função em intervalos definidos infere que ",
         "Segundo o modelo padrão, ",
         "Jupiter está se deteriorando, isso levou ao fato de que ",
         "O objetivo desse experimento é calcular como ",
@@ -33,9 +33,15 @@ const frases = [
         "o valor da constante gama ",
         "a amplitude do movimento ",
         "a influencia dos físicos teóricos contemporâneos ",
-        "a constante sensação de vazio "
-        "a impossibilidade da continuidade somente pela física teórica"
-        
+        "o zero absoluto",
+        "um quark com spin 1/2 ",
+        "o momento de inércia ",
+        "o empuxo criado ",
+        "uma integral ",
+        "o spin do elétron diferencial ",
+        "um vetor de estado ",
+        "a constante sensação de vazio ",
+        "a impossibilidade da continuidade somente pela física teórica ",
     ],
     [
         "nos obriga à análise ",
@@ -47,9 +53,10 @@ const frases = [
         "aponta para a convergência ",
         "afeta positivamente a correta previsão ",
         "implica em fusão de átomos ",
-        "spin do elétron diferencial ", 
         "leva a uma caneca equivaler a uma rosquinha ", 
         "exige uma fortificação dos alicerces que servem de ferramenta ",
+        "tem como consequência ",
+        "oscila em n-dimensões ",
         "tendo como consequência uma estrela de nêutrons ",
         "nos leva a questionar a procedência ",
         "é mais recorrente que pensávamos, e portanto leva ao questionamento ",
@@ -67,13 +74,19 @@ const frases = [
         "da posição do elétron.",
         "do modelo estabelecido.",
         "das provas por indução.",
-        ", particialmente, da relatividade geral.",
+        ", parcialmente, da relatividade geral.",
         "dos transitos de informação por fótons.",
         "dos campos quânticos.",
         "da Teoria Cinética dos Gases.",
         "do gás em análise.",
         "da Teoria das Cordas.",
+        "graças as descobertas de Isaac Newton no século XV.",
+        "da escala Kelvin.",
+        "de um buraco negro.",
+        "de um caminho fechado.",
+        "de um elipsóide.",
         "graças às descobertas de Isaac Newton no século XV.",
-        "como previsto pelo astronomo Johannes Kepler."
+        "como previsto pelo astronomo Johannes Kepler.",
+        "do raio de Schwarzschild."
     ]
   ];
