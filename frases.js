@@ -2,7 +2,7 @@ const frases = [
     [
         "De acordo com Schrödinger, ",
         "Uma recente pesquisa demonstra que ",
-        "Acadêmicos debatem sobre ",
+        "Acadêmicos debatem que ",
         "Experimentos demonstram a probabilidade de que ",
         "Fundamentalmente, ",
         "Evidentemente, ",
