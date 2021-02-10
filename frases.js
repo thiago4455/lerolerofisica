@@ -66,6 +66,9 @@ const frases = [
         " é a figura chave da revolução científica",
         " é conflitante com a ideia",
         " é possível de ser visualizada num vetor de n-dimesões",
+        " e, ao ser transformada em matriz de proporções n x m, dissocia a análise anterior",
+        " constrói um gráfico polinomial",
+        " pode ser análisado como uma expressão algébrica que se aproxima"
     ],
     [
         " das novas proposições.",
