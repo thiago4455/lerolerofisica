@@ -35,6 +35,10 @@ const frases = [
         "do levantamento de dados experimentais.",
         "dos métodos utilizados na avaliação de resultados.",
         "das conjecturas inferidas.",
-        "da geometria euclidiana."
+        "da geometria euclidiana.",
+        "do tempo de decaimento dos átomos.",
+        "das partículas subatômicas.",
+        "da posição do elétron."
+        
     ]
   ];
