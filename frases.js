@@ -39,7 +39,8 @@ const frases = [
         "o empuxo criado ",
         "uma integral ",
         "o spin do elétron diferencial ",
-        "um vetor de estado "
+        "um vetor de estado ",
+        "a constante sensação de vazio "
     ],
     [
         "nos obriga à análise ",
@@ -55,6 +56,11 @@ const frases = [
         "exige uma fortificação dos alicerces que servem de ferramenta ",
         "tem como consequência ",
         "oscila em n-dimensões ",
+        "tendo como consequência uma estrela de nêutrons ",
+        "nos leva a questionar a procedência ",
+        "é mais recorrente que pensávamos, e portanto leva ao questionamento ",
+        "é a figura chave da revolução científica ",
+        "é conflitante com a ideia "
     ],
     [
         "das novas proposições.",
@@ -77,6 +83,8 @@ const frases = [
         "da escala Kelvin.",
         "de um buraco negro.",
         "de um caminho fechado.",
-        "de um elipsóide."
+        "de um elipsóide.",
+        "graças às descobertas de Isaac Newton no século XV.",
+        "como previsto pelo astronomo Johannes Kepler."
     ]
   ];
