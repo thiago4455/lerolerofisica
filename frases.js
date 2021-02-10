@@ -18,7 +18,8 @@ const frases = [
         "Segundo o modelo padrão, ",
         "Jupiter está se deteriorando, isso levou ao fato de que ",
         "O objetivo desse experimento é calcular como ",
-        "É trivial que "
+        "É trivial que ",
+        "Segundo o teorema do virial ",
         
     ],
     [
@@ -41,6 +42,8 @@ const frases = [
         "o spin do elétron diferencial ",
         "um vetor de estado ",
         "a constante sensação de vazio ",
+        "a intrigante equação de Maxwell ",
+        "uma expansão livre ",
         "a impossibilidade da continuidade somente pela física teórica ",
     ],
     [
@@ -61,7 +64,8 @@ const frases = [
         "nos leva a questionar a procedência ",
         "é mais recorrente que pensávamos, e portanto leva ao questionamento ",
         "é a figura chave da revolução científica ",
-        "é conflitante com a ideia "
+        "é conflitante com a ideia ",
+        "é possível de ser visualizada num vetor de n-dimesões",
     ],
     [
         "das novas proposições.",
@@ -74,7 +78,7 @@ const frases = [
         "da posição do elétron.",
         "do modelo estabelecido.",
         "das provas por indução.",
-        ", parcialmente, da relatividade geral.",
+        ", particialmente, da relatividade geral.",
         "dos transitos de informação por fótons.",
         "dos campos quânticos.",
         "da Teoria Cinética dos Gases.",
@@ -87,6 +91,6 @@ const frases = [
         "de um elipsóide.",
         "graças às descobertas de Isaac Newton no século XV.",
         "como previsto pelo astronomo Johannes Kepler.",
-        "do raio de Schwarzschild."
+        "de operadores simétricos.",
     ]
   ];
