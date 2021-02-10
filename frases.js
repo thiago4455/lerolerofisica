@@ -15,7 +15,7 @@ const frases = [
         "Dado os conhecimentos adquiridos durante a história ",
         "Newton uma vez afirmou que ",
         "A integral de uma função em um intervalos definidos infere que ",
-        "Segundo o modelo padrão ",
+        "Segundo o modelo padrão, ",
         "Jupiter está se deteriorando, isso levou ao fato de que ",
     ],
     [
