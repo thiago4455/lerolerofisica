@@ -17,7 +17,8 @@ const frases = [
         "A integral de uma função em um intervalos definidos infere que ",
         "Segundo o modelo padrão, ",
         "Jupiter está se deteriorando, isso levou ao fato de que ",
-        "O objetivo desse experimento é calcular como "
+        "O objetivo desse experimento é calcular como ",
+        "É trivial que "
         
     ],
     [
