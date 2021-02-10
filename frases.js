@@ -19,7 +19,7 @@ const frases = [
         "Jupiter está se deteriorando, isso levou ao fato de que ",
         "O objetivo desse experimento é calcular como ",
         "É trivial que ",
-        "Segundo o teorema do virial "
+        "Segundo o teorema do virial ",
         
     ],
     [
@@ -43,7 +43,8 @@ const frases = [
         "um vetor de estado ",
         "a constante sensação de vazio ",
         "a intrigante equação de Maxwell ",
-        "uma expansão livre "
+        "uma expansão livre ",
+        "a impossibilidade da continuidade somente pela física teórica ",
     ],
     [
         "nos obriga à análise ",
@@ -63,8 +64,8 @@ const frases = [
         "nos leva a questionar a procedência ",
         "é mais recorrente que pensávamos, e portanto leva ao questionamento ",
         "é a figura chave da revolução científica ",
-        "é conflitante com a ideia "
-        "é possível de ser visualizada num vetor de n-dimesões"
+        "é conflitante com a ideia ",
+        "é possível de ser visualizada num vetor de n-dimesões",
     ],
     [
         "das novas proposições.",
@@ -90,6 +91,6 @@ const frases = [
         "de um elipsóide.",
         "graças às descobertas de Isaac Newton no século XV.",
         "como previsto pelo astronomo Johannes Kepler.",
-        "de operadores simétricos."
+        "de operadores simétricos.",
     ]
   ];
