@@ -32,7 +32,14 @@ const frases = [
         "o teletransporte de matéria ",
         "o valor da constante gama ",
         "a amplitude do movimento ",
-        "a influencia dos físicos teóricos contemporâneos "
+        "a influencia dos físicos teóricos contemporâneos ",
+        "o zero absoluto",
+        "um quark com spin 1/2 ",
+        "o momento de inércia ",
+        "o empuxo criado ",
+        "uma integral ",
+        "o spin do elétron diferencial ",
+        "um vetor de estado "
     ],
     [
         "nos obriga à análise ",
@@ -44,10 +51,10 @@ const frases = [
         "aponta para a convergência ",
         "afeta positivamente a correta previsão ",
         "implica em fusão de átomos ",
-        "spin do elétron diferencial ", 
         "leva a uma caneca equivaler a uma rosquinha ", 
         "exige uma fortificação dos alicerces que servem de ferramenta ",
-        "tendo como consequência uma estrela de nêutrons "
+        "tem como consequência ",
+        "oscila em n-dimensões ",
     ],
     [
         "das novas proposições.",
@@ -66,6 +73,10 @@ const frases = [
         "da Teoria Cinética dos Gases.",
         "do gás em análise.",
         "da Teoria das Cordas.",
-        "graças as descobertas de Isaac Newton no século XV"
+        "graças as descobertas de Isaac Newton no século XV.",
+        "da escala Kelvin.",
+        "de um buraco negro.",
+        "de um caminho fechado.",
+        "de um elipsóide."
     ]
   ];
