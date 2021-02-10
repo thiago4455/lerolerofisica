@@ -25,7 +25,7 @@ const frases = [
         "o experimento realizado ",
         "a cada vez maior busca por respostas ",
         "a necessidade de respostas sobre um determinado tópico "
-        "a energia mecânica conservada", 
+        "a energia mecânica conservada ", 
         "o teletransporte de matéria "
     ],
     [
@@ -38,7 +38,7 @@ const frases = [
         "aponta para a convergência ",
         "afeta positivamente a correta previsão "
         "implica em fusão de átomos ",
-        "spin do elétron diferencial", 
+        "spin do elétron diferencial ", 
         "leva a uma caneca é igual a uma rosquinha ", 
         "exige uma fortificação dos alicerces que servem de ferramenta ",
         "tendo como consequência uma estrela de neutros "
