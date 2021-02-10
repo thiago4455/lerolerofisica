@@ -11,8 +11,8 @@ const frases = [
         "Utilizamos o método ciêntifico para demonstrar que ",
         "Como ja foi previsto na teoria da relatividade, ",
         "Como antes foi dito por Einstein, ",
-        "A dristuibuição de Gauss preve que",
-        "Dado os conhecimentos adquiridos durante a história ",
+        "A distribuição de Gauss prevê que ",
+        "Dado os conhecimentos adquiridos durante a história, ",
         "Newton uma vez afirmou que ",
         "A integral de uma função em um intervalos definidos infere que ",
         "Segundo o modelo padrão, ",
@@ -65,6 +65,6 @@ const frases = [
         "da Teoria Cinética dos Gases.",
         "do gás em análise.",
         "da Teoria das Cordas."
-        "Graças as descobertas de Isaac Newton no século XV"
+        "graças as descobertas de Isaac Newton no século XV"
     ]
   ];
