@@ -1,0 +1,12 @@
+<svg width="512" height="512" viewBox="0 0 560 560" xmlns="http://www.w3.org/2000/svg"
+    data-name="Layer 1">
+    <style>
+        svg {
+            color: #fff;
+            background-color: #5d0c96
+        }
+    </style>
+    <path fill="transparent" stroke="currentColor" stroke-width="50" d="m 30 250 a 125 125 0 0 0 250 0 a 125 125 0 0 1 250 0" class="path"></path>
+    <path fill="currentColor" d="m 85 250 a 70 70 0 0 0 140 0 a 70 70 0 1 0 -140 0" class="path"></path>
+    <path fill="currentColor" d="m 335 250 a 70 70 0 0 0 140 0 a 70 70 0 1 0 -140 0" class="path"></path>
+</svg>

@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="icon" href="favicon.png">
+        <meta name="theme-color" content="#5d0c96" />
+        <meta name="msapplication-navbutton-color" content="#5d0c96">
+        <meta property="og:site_name" content="LeroLero Física">
+        <meta property="og:title" content="LeroLero Física" />
+        <meta property="og:description" content="Gerador de frases inspiradoras que contribuem incrivelmente para a comunidade científica." />
+        <meta property="og:url" content="https://thiago.saturno.app/lerolerofisica/">
+        <meta property="og:image" itemprop="image" content="https://thiago.saturno.app/lerolerofisica/banner.png">
+        <meta property="og:image" itemprop="image" content="https://thiago.saturno.app/lerolerofisica/banner.png">
+        <meta property="og:type" content="website" />
+        <meta property="og:locale" content="pt_BR" />
+        <meta property="twitter:card" content="summary_large_image">
+        <meta property="twitter:url" content="https://thiago.saturno.app/lerolerofisica/">
+        <meta property="twitter:title" content="LeroLero Física">
+        <meta property="twitter:description" content="Gerador de frases inspiradoras que contribuem incrivelmente para a comunidade científica.">
+        <meta property="twitter:image" content="https://thiago.saturno.app/lerolerofisica/banner.png">
+        <link rel="apple-touch-icon" href="favicon.svg" />
+
+        <title>LeroLero Física</title>
+        <!-- <link rel="stylesheet" href="index.css"> -->
+        <style>
+            body{
+                margin: 0px;
+                background-color: #5d0c96;
+                display: flex;
+                width: 100vw;
+                height: 100vh;
+                align-items: center;
+                justify-content: center;
+            }
+            div{
+                display: flex;
+                width: 100vw;
+                align-items: center;
+                justify-content: center;
+                padding-left: 200px;
+                background-color: #531183;
+            }
+            button{
+                background: none;
+                border: none;
+                cursor: pointer;
+            }
+            h2{
+                color: #fff;
+                font-size: 38px;
+                margin-top: 10px;
+            }
+            #quote{
+                background: url(quotes.png) no-repeat;
+                padding-left: 100px;
+                min-height: 80px;
+                max-width: 550px;
+                font-size: 28px;
+                color: #fff;
+                text-shadow: 0 1px 1px #9361b8;
+                font-family: Arial,Helvetica,sans-serif;
+                font-style: italic;
+            }
+        </style>
+    </head>
+
+    <body>
+        <div>
+            <p id="quote">
+                
+            </p>
+            <button onclick="generate()">
+                <img src="einstein.png" alt="">
+                <h2>Gerar frase</h2>
+            </button>
+        </div>
+
+        <script src="frases.js"></script>
+        <script>
+            function generate() {
+                document.getElementById("quote").innerText = frases.reduce((frase, cp) => frase + cp[Math.floor(Math.random()*cp.length)], '');
+            }
+            generate();
+        </script>
+    </body>
+</html>
