@@ -17,6 +17,7 @@ const frases = [
         "A integral de uma função em um intervalos definidos infere que ",
         "Segundo o modelo padrão, ",
         "Jupiter está se deteriorando, isso levou ao fato de que ",
+        "O objetivo desse experimento é calcular como "
     ],
     [
         "a crescente busca pela teoria unificada ",
@@ -26,7 +27,9 @@ const frases = [
         "a, cada vez maior, busca por respostas ",
         "a necessidade de respostas sobre um determinado tópico ",
         "a energia mecânica conservada ", 
-        "o teletransporte de matéria "
+        "o teletransporte de matéria ",
+        "o valor da constante gama ",
+        "a amplitude do movimento "
     ],
     [
         "nos obriga à análise ",
@@ -41,7 +44,7 @@ const frases = [
         "spin do elétron diferencial ", 
         "leva a uma caneca equivaler a uma rosquinha ", 
         "exige uma fortificação dos alicerces que servem de ferramenta ",
-        "tendo como consequência uma estrela de neutros "
+        "tendo como consequência uma estrela de nêutrons "
     ],
     [
         "das novas proposições.",
@@ -58,5 +61,6 @@ const frases = [
         "dos transitos de informação por fótons.",
         "dos campos quânticos.",
         "da Teoria Cinética dos Gases."
+        "do gás em análise."
     ]
   ];
