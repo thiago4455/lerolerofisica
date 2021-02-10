@@ -27,7 +27,8 @@ const frases = [
         "Segundo o teorema de Navier-Stokes,",
         "Segundo o físico Ludwig Boltzmann,",
         "A integral de Lebesgue determina que",
-        "A dualidade partícula onda indica que"
+        "A dualidade partícula onda indica que",
+        "Desprezado a resistência do ar é facil notar que"
     ],
     [
         " a crescente busca pela teoria unificada",
@@ -63,7 +64,8 @@ const frases = [
         " a distribuição de velocidade de maxwell",
         " a equivalência de uma caneca a uma rosquinha",
         " a topologia",
-        " o sofrimento do gato de Schrödinger"
+        " o sofrimento do gato de Schrödinger",
+        " a demonstração trivial"
     ],
     [
         " nos obriga à análise",
@@ -124,6 +126,5 @@ const frases = [
         " de elétrons quantizados.",
         " do raio de convergência.",
         " de qualquer comprimento de onda",
-
     ]
   ];
